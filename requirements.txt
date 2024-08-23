@@ -1,3 +1,4 @@
+
 Django==5.0.3
 django-timezone-field==6.1.0
 proglog==0.1.10
