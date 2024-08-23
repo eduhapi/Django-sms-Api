@@ -2,6 +2,8 @@
 This is a project to send a message via computer serial port
 If you have a modem, it can act as an sms gateway and you can send an sms directly
 
+![Screenshot](docs/send-sms.PNG)
+
 To clone the `django-sms-api` repository from this GitHub account `eduhapi`, follow these steps:
 
 ### Step-by-Step Guide to Clone the `django-sms-api` Repository
